@@ -8,6 +8,6 @@ Passive reads only. No messages sent. No login. No account touched.
 
 ```bash
 pkg install -y git
-git clone https://github.com/YOUR_USERNAME/kaku-wa.git
+git clone https://github.com/frenytech/kaku-wa.git
 cd kaku-wa
 bash install.sh
